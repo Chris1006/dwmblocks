@@ -7,14 +7,14 @@ static const Block blocks[] = {
 // {"", "~/.local/bin/statusbar/cpu_usage", 15, 0},
 // {"", "~/.local/bin/statusbar/memory", 60, 0},
 // {"", "~/.local/bin/statusbar/free_disk_space", 60, 0},
-    {"", "~/.local/bin/statusbar/ip_addr", 20, 0},
-    {"", "~/.local/bin/statusbar/battery", 5, 0},
+    {"", "~/.local/bin/statusbar/ip_addr", 20, 1},
+    {"", "~/.local/bin/statusbar/battery", 5, 2},
 //    {"", "~/.local/bin/statusbar/mailbox", 0, 19},
 //    {"", "~/.local/bin/statusbar/news", 0, 14},
 //    {"", "~/.local/bin/statusbar/pacman", 0, 13},
     {"", "~/.local/bin/statusbar/volume-new", 0, 10},
-    {"", "~/.local/bin/statusbar/calendar", 60, 0},
-    {"", "~/.local/bin/statusbar/clock", 30, 0},
+    {"", "~/.local/bin/statusbar/calendar", 60, 4},
+    {"", "~/.local/bin/statusbar/clock", 30, 5},
 
 };
 
